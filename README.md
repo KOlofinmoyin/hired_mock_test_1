@@ -9,7 +9,8 @@ Example Input:
 2. ["abcdef"]
 3. ["efghi","efghi"]
 4. ["abcdef","bbcghi","abcabc"]
-5. ["abcdef","abcghi","abcabc"]
+5. ["abcdef","abcghi"]
+6. ["abcdef","abcghi","abcabc"]
 
 Example Output:
 ""
