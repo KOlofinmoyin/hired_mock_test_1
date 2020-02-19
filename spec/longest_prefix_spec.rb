@@ -8,4 +8,8 @@ describe '#solution' do
   it "takes ['abcdef'] and returns 'abcdef'" do
     expect(solution(["abcdef"])).to eq "abcdef"
   end
+
+  it "takes ['efghi','efghi']" do
+    expect(solution(["efghi","efghi"])).to eq "efghi"
+  end
 end
