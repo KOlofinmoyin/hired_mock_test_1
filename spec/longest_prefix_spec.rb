@@ -5,7 +5,7 @@ describe '#solution' do
     expect(solution([])).to eq ''
   end
 
-  it "takes ['abcdef'] and returns 'abc'" do
-    expect(solution(["abcdef"])).to eq "abc"
+  it "takes ['abcdef'] and returns 'abcdef'" do
+    expect(solution(["abcdef"])).to eq "abcdef"
   end
 end
