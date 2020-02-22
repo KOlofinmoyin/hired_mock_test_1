@@ -11,6 +11,5 @@ def solution(array)
     end
   }
     substring
-    # return "" if array.length == 0
-    # array.length <= 2 ? array.pop : ""
+
 end
